@@ -14,6 +14,7 @@
 
 //builder.Services.AddTransient<Startup>();
 
+
 ////builder.Services.AddApplication<VegaStar.Startup>();
 
 //var app = builder.Build();
